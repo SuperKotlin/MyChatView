@@ -4,7 +4,7 @@
 
  - 介绍博客：[自定义View_撸一个多层折线图](https://www.jianshu.com/p/a7943fd329bb)
 
-![](/art/mychatview.png)
+![](/art/mychatview.gif)
 
 ### 关于我
  - 我的简书：[BraveJoy](http://www.jianshu.com/users/c96d2a9d160f/timeline)
